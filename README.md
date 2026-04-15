@@ -1,7 +1,7 @@
 ## Olá!! Sou o Fhelipe, Estudante e programador do iF Goiano 👋
 
-- 📕 Atualmente aluno do iF Goiano
-- 💻 Técnico em informática
+- 📕 Discente da UniEvangélica - Campus Anápolis
+- 💻 Engenharia de Software
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fhelipe-stack&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
