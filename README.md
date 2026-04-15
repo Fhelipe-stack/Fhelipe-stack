@@ -1,4 +1,4 @@
-## Olá!! Sou o Fhelipe, Estudante e programador do iF Goiano 👋
+## Olá!! Sou o Fhelipe, Estudante e programador da UniEvangélica 👋
 
 - 📕 Discente da UniEvangélica - Campus Anápolis
 - 💻 Engenharia de Software
