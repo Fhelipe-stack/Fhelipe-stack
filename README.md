@@ -1,4 +1,4 @@
-## Olá!! Sou o Fhelipe, Estudante e programador da UniEvangélica 👋
+## Olá!! Sou o Fhelipe, estudante de Engenharia de Software na UniEvangélica 👋
 
 - 📕 Discente da UniEvangélica - Campus Anápolis
 - 💻 Engenharia de Software
